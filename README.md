@@ -1,6 +1,7 @@
 Rock Paper Scissors – JavaScript Console Game
 
 📝 About the Project
+
 This is a simple Rock Paper Scissors game created as part of The Odin Project Foundations curriculum. The game runs entirely in the browser console and demonstrates basic JavaScript concepts such as:
 
 Functions
